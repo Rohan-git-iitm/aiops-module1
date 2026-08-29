@@ -4,3 +4,4 @@ __pycache__/
 mlruns/
 mlflow.db
 .ipynb_checkpoints/
+q3/data/
